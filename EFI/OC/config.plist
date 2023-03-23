@@ -232,7 +232,7 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>AAASWQ==</data>
+				<data>AwASWQ==</data>
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-stolenmem</key>
@@ -992,7 +992,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 alcid=1 -wegnoegpu</string>
+				<string>-v keepsyms=1 debug=0x100 alcid=1 amfi_get_out_of_my_way=0x1 ngfxcompat=1 ngfxgl=1 nvda_drv_vrl=1</string>
 				<key>csr-active-config</key>
 				<data>/wcAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1062,7 +1062,7 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02937101GUH69FUE</string>
+			<string>C02734108GUJ0PGJC</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
@@ -1074,11 +1074,11 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMac18,1</string>
+			<string>iMac18,3</string>
 			<key>SystemSerialNumber</key>
-			<string>C02ZD4ZTH7JY</string>
+			<string>C02V8WZZJ1GJ</string>
 			<key>SystemUUID</key>
-			<string>73BACA26-CEE1-4612-B647-8530CD57C8AD</string>
+			<string>2E04E028-60D4-4DA9-8E2A-4ABB57149E49</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
