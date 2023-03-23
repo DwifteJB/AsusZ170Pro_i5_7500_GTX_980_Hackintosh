@@ -994,7 +994,7 @@
 				<key>boot-args</key>
 				<string>-v keepsyms=1 debug=0x100 alcid=1 amfi_get_out_of_my_way=0x1 ngfxcompat=1 ngfxgl=1 nvda_drv_vrl=1</string>
 				<key>csr-active-config</key>
-				<data>/wcAAA==</data>
+				<data>/w8AAA==</data>
 				<key>prev-lang:kbd</key>
 				<data>ZW46MjUy</data>
 				<key>run-efi-updater</key>
@@ -1062,13 +1062,13 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02734108GUJ0PGJC</string>
+			<string></string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>ABbLODt3</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1076,9 +1076,9 @@
 			<key>SystemProductName</key>
 			<string>iMac18,3</string>
 			<key>SystemSerialNumber</key>
-			<string>C02V8WZZJ1GJ</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>2E04E028-60D4-4DA9-8E2A-4ABB57149E49</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
