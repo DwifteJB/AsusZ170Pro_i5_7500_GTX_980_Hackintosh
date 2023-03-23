@@ -1062,13 +1062,13 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02937101GUH69FUE</string>
+			<string></string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>ABbLODt3</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1076,9 +1076,9 @@
 			<key>SystemProductName</key>
 			<string>iMac18,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02ZD4ZTH7JY</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>73BACA26-CEE1-4612-B647-8530CD57C8AD</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
